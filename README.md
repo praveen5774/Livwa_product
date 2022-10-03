@@ -1,2 +1,2 @@
 # Livwa_product
-It is a streaming the channel
+It is a live streaming
